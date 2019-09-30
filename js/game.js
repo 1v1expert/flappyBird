@@ -89,3 +89,5 @@ function Game() {
 
     pipeBottom.onload = draw;
 }
+
+// https://itproger.com/news/104
