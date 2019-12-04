@@ -74,7 +74,7 @@ function draw() {
             score_audio.play();
         }
     }
-
+/// test
     ctx.drawImage(fg, 0, cvs.height - fg.height);
     ctx.drawImage(bird, xPos, yPos);
 
